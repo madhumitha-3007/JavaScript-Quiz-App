@@ -25,5 +25,3 @@ the final score based on user answers.
 Open the file in your browser and start answering the quiz!
 
 This project is created for learning and practice purposes.
-# JavaScript-Quiz-App
-A responsive JavaScript quiz web app built with HTML, CSS, and Bootstrap to test basic web development knowledge.
